@@ -1,9 +1,5 @@
 # What happens when you call a contract?
 
-<!-- Target: under 300 words total. Each section has a word budget so you don't overrun.
-     Delete these comments as you fill them in. -->
-
-## 1. Two kinds of call
 When calling a contract, there are two kinds of call:
 - Read: no gas cost, read the on-chain state
 - Write: gas cost is consumed to execute the call. Changes the on-chain state
